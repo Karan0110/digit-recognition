@@ -1,7 +1,3 @@
-# Digit Recognition
-
-A simple digit recognition program, written from scratch with python and numpy utilising neural networks. Made for learning purposes
-
 # Notes
 
 - The default ```network.ann``` supplied has an accuracy of about 93%
